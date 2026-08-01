@@ -50,10 +50,9 @@ Estou sempre buscando aprender novas tecnologias e escrever código cada vez mai
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caixetss&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caixetss&show_icons=true&theme=tokyonight"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caixetss&layout=compact&theme=tokyonight"/>
-
 
 </div>
 
