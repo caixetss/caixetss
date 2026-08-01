@@ -1,16 +1,77 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Gabrielle Caixeta
 
-<!--
-**caixetss/caixetss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora de Software apaixonada por tecnologia, backend e resolução de problemas.
 
-Here are some ideas to get you started:
+Atualmente curso **Ciência da Computação** e trabalho desenvolvendo aplicações utilizando **Java**, com foco em APIs REST, regras de negócio e integração com banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre buscando aprender novas tecnologias e escrever código cada vez mais limpo, escalável e de qualidade.
+
+---
+
+## 🚀 Tecnologias
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Atualmente
+
+- 🎓 Estudando Ciência da Computação
+- 💼 Desenvolvendo aplicações Java com Spring Boot
+- 🌱 Aprimorando conhecimentos em arquitetura de software, testes e boas práticas
+- ☁️ Estudando Cloud Computing
+
+---
+
+## 📂 Projetos em destaque
+
+### 📅 Scheduler System
+API REST para gerenciamento de clientes e agendamentos.
+
+**Principais recursos**
+- CRUD completo
+- Validações de regras de negócio
+- Integração com PostgreSQL
+- Testes unitários
+- Arquitetura em camadas
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caixetss&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caixetss&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-caixeta-4994712b7)
+
+---
+
+> "A melhor forma de aprender é construindo."
