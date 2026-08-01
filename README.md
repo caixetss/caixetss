@@ -5,9 +5,9 @@
 <img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 # Olá! 👋 Eu sou a Gabrielle Caixeta
 
-💻 Desenvolvedora de Software apaixonada por tecnologia, backend e resolução de problemas.
+💻 Desenvolvedora de Software em formação.
 
-Atualmente curso **Ciência da Computação** e trabalho desenvolvendo aplicações utilizando **Java**, com foco em APIs REST, regras de negócio e integração com banco de dados.
+Atualmente curso **Sistemas de Informação** e trabalho desenvolvendo aplicações utilizando **Java**, com foco em APIs REST, regras de negócio e integração com banco de dados.
 
 Estou sempre buscando aprender novas tecnologias e escrever código cada vez mais limpo, escalável e de qualidade.
 
@@ -34,32 +34,17 @@ Estou sempre buscando aprender novas tecnologias e escrever código cada vez mai
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📌 Atualmente
 
-- 🎓 Estudando Ciência da Computação
+- 🎓 Estudando Sistemas de Informação
 - 💼 Desenvolvendo aplicações Java com Spring Boot
 - 🌱 Aprimorando conhecimentos em arquitetura de software, testes e boas práticas
-- ☁️ Estudando Cloud Computing
 
 ---
 
-## 📂 Projetos em destaque
-
-### 📅 Scheduler System
-API REST para gerenciamento de clientes e agendamentos.
-
-**Principais recursos**
-- CRUD completo
-- Validações de regras de negócio
-- Integração com PostgreSQL
-- Testes unitários
-- Arquitetura em camadas
-
----
 
 ## 📈 GitHub Stats
 
