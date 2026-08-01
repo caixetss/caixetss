@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Gabrielle%20Caixeta&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 # Olá! 👋 Eu sou a Gabrielle Caixeta
 
 💻 Desenvolvedora de Software apaixonada por tecnologia, backend e resolução de problemas.
