@@ -1,44 +1,49 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabrielle%20Caixeta&fontSize=42&fontColor=ffffff&desc=Desenvolvedora%20Back-end%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=62"/>
+  <img src="./assets/banner.svg" alt="Gabrielle Caixeta — Desenvolvedora Back-end Java" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielle-caixeta-4994712b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:gabrielle.scaixeta@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=caixetss&style=for-the-badge&color=7C3AED&label=VISITAS"/>
 </p>
 
 ---
 
-### Sobre mim
+## Sobre mim
 
-Desenvolvedora de software com foco em **back-end Java**. Trabalho no dia a dia com
-**Spring Boot**, construindo APIs REST, modelando regras de negócio e integrando com
-banco de dados relacional — em um contexto de sistema bancário, onde consistência e
-rastreabilidade dos dados não são opcionais.
+Desenvolvedora de software com foco em **back-end Java**. No dia a dia trabalho com
+**Spring Boot** construindo APIs REST, modelando regras de negócio e integrando com
+banco de dados relacional — em um sistema bancário, onde consistência e rastreabilidade
+dos dados não são opcionais.
 
-Cursando **Sistemas de Informação**. Atualmente aprofundando arquitetura de software,
-testes automatizados e boas práticas de código.
+Cursando **Sistemas de Informação**. Estudando arquitetura de software, testes
+automatizados e boas práticas de código.
+
+```java
+public class Gabrielle {
+
+    private final String funcao   = "Desenvolvedora Back-end";
+    private final String[] stack  = { "Java 21", "Spring Boot", "PostgreSQL", "Angular" };
+    private final String estudando = "Arquitetura de Software & Testes";
+
+    public String filosofia() {
+        return "A melhor forma de aprender é construindo.";
+    }
+}
+```
 
 ---
 
-### Projetos
+## Stack
 
-<!-- SUBSTITUA pelos seus repositórios reais. Se algum ainda não existe, vale
-     criar: 2 ou 3 projetos bem documentados valem mais que 20 repositórios vazios. -->
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[nome-do-projeto](https://github.com/caixetss/nome-do-projeto)** | API REST para gestão de X, com autenticação JWT e cobertura de testes. | `Java 21` `Spring Boot` `PostgreSQL` |
-| **[nome-do-projeto](https://github.com/caixetss/nome-do-projeto)** | Aplicação full-stack de Y — CRUD completo e validação de formulários. | `Angular 17` `TypeScript` `Spring Boot` |
-| **[nome-do-projeto](https://github.com/caixetss/nome-do-projeto)** | Estudos de estruturas de dados e algoritmos em Java. | `Java` |
-
----
-
-### Stack
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 **Back-end**
 
@@ -46,7 +51,10 @@ testes automatizados e boas práticas de código.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+  </td>
+    <td valign="top" width="33%">
 
 **Front-end**
 
@@ -56,20 +64,66 @@ testes automatizados e boas práticas de código.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+  </td>
+    <td valign="top" width="33%">
+
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-### Estatísticas
+## Trilha de estudos
+
+| | Tema | Status |
+|---|---|---|
+| ✅ | Lógica de programação e sintaxe Java | Concluído |
+| ✅ | Pilares da POO — herança, polimorfismo, encapsulamento | Concluído |
+| ✅ | Coleções, streams e expressões lambda | Concluído |
+| 🔄 | Spring Boot — APIs REST, validação, camada de serviço | Em andamento |
+| 🔄 | Testes automatizados com JUnit 5 e Mockito | Em andamento |
+| 📋 | Arquitetura de software e design patterns | Próximo |
+| 📋 | Docker e deploy de aplicações | Próximo |
+
+<!--
+  QUANDO TIVER PROJETOS, troque esta seção pela tabela abaixo:
+
+  ## Projetos
+
+  | Projeto | Descrição | Stack |
+  |---|---|---|
+  | **[nome](link)** | O que faz, em uma frase. | `Java` `Spring Boot` |
+-->
+
+---
+
+## Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caixetss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caixetss&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6"/>
+</p>
+
+---
+
+## 🐍 A cobrinha comendo minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/caixetss/caixetss/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/caixetss/caixetss/output/snake-light.svg"/>
+    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições"
+         src="https://raw.githubusercontent.com/caixetss/caixetss/output/snake-dark.svg"/>
+  </picture>
 </p>
 
 ---
