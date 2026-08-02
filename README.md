@@ -26,7 +26,7 @@ persistência de dados e boas práticas de código.
 ```java
 public class Gabrielle {
 
-    private final String funcao    = "Desenvolvedora Back-end";
+    private final String funcao    = "Desenvolvedora Full-stack";
     private final String formacao  = "Sistemas de Informação";
     private final String[] stack   = { "Java 21", "Spring Boot", "PostgreSQL", "Angular" };
     private final String estudando = "Arquitetura de Software & Spring Data JPA";
