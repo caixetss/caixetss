@@ -25,7 +25,7 @@
         fill="#ffffff" fill-opacity="0.10"/>
 
   <!-- chaves decorativas -->
-  <text x="905" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+  <text x="812" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
         font-size="88" fill="#ffffff" fill-opacity="0.10">&lt;/&gt;</text>
 
   <text x="60" y="98" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
