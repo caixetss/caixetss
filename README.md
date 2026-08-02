@@ -29,7 +29,7 @@ public class Gabrielle {
     private final String funcao    = "Desenvolvedora Full-stack";
     private final String formacao  = "Sistemas de Informação";
     private final String[] stack   = { "Java 21", "Spring Boot", "PostgreSQL", "Angular" };
-    private final String estudando = "Arquitetura de Software & Spring Data JPA";
+    private final String estudando = "Arquitetura de Software";
 
 }
 ```
