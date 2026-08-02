@@ -16,24 +16,21 @@
 
 ## Sobre mim
 
-Desenvolvedora de software com foco em **back-end Java**. No dia a dia trabalho com
-**Spring Boot** construindo APIs REST, modelando regras de negócio e integrando com
-banco de dados relacional — em um sistema bancário, onde consistência e rastreabilidade
-dos dados não são opcionais.
+Desenvolvedora de software com foco em **back-end Java**. Atuo profissionalmente
+com **Spring Boot**, construindo APIs REST, modelando regras de negócio e
+integrando com banco de dados relacional em ambiente corporativo.
 
-Cursando **Sistemas de Informação**. Estudando arquitetura de software, testes
-automatizados e boas práticas de código.
+Cursando **Sistemas de Informação** e aprofundando arquitetura de software,
+persistência de dados e boas práticas de código.
 
 ```java
 public class Gabrielle {
 
-    private final String funcao   = "Desenvolvedora Back-end";
-    private final String[] stack  = { "Java 21", "Spring Boot", "PostgreSQL", "Angular" };
-    private final String estudando = "Arquitetura de Software & Testes";
+    private final String funcao    = "Desenvolvedora Back-end";
+    private final String formacao  = "Sistemas de Informação";
+    private final String[] stack   = { "Java 21", "Spring Boot", "PostgreSQL", "Angular" };
+    private final String estudando = "Arquitetura de Software & Spring Data JPA";
 
-    public String filosofia() {
-        return "A melhor forma de aprender é construindo.";
-    }
 }
 ```
 
@@ -82,25 +79,40 @@ public class Gabrielle {
 
 ## Trilha de estudos
 
-| | Tema | Status |
-|---|---|---|
-| ✅ | Lógica de programação e sintaxe Java | Concluído |
-| ✅ | Pilares da POO — herança, polimorfismo, encapsulamento | Concluído |
-| ✅ | Coleções, streams e expressões lambda | Concluído |
-| 🔄 | Spring Boot — APIs REST, validação, camada de serviço | Em andamento |
-| 🔄 | Testes automatizados com JUnit 5 e Mockito | Em andamento |
-| 📋 | Arquitetura de software e design patterns | Próximo |
-| 📋 | Docker e deploy de aplicações | Próximo |
+Carreira **[Desenvolvimento Back-End Java](https://cursos.alura.com.br)** — Alura · Nível 1 de 3
 
-<!--
-  QUANDO TIVER PROJETOS, troque esta seção pela tabela abaixo:
+**Concluído**
 
-  ## Projetos
+| | Tema |
+|:---:|---|
+| ✅ | Sintaxe Java — variáveis, condicionais e laços |
+| ✅ | Orientação a objetos — classes, encapsulamento, herança, polimorfismo, interfaces |
+| ✅ | Consumo de APIs, manipulação de arquivos e tratamento de erros |
+| ✅ | Boas práticas de código em APIs Java |
+| ✅ | Testes automatizados com Java |
 
-  | Projeto | Descrição | Stack |
-  |---|---|---|
-  | **[nome](link)** | O que faz, em uma frase. | `Java` `Spring Boot` |
--->
+**Em andamento**
+
+| | Tema | |
+|:---:|---|---|
+| 🔄 | Listas e coleções de dados | `84%` |
+| 🔄 | Lambdas, streams e Spring Framework | `8%` |
+| 🔄 | Versionamento e repositórios no GitHub | `6%` |
+
+**Próximos passos**
+
+| | Tema |
+|:---:|---|
+| ⬜ | Exceções — criar, lançar e controlar |
+| ⬜ | Persistência com Spring Data JPA |
+| ⬜ | Redes e protocolos — fundamentos da web |
+| ⬜ | Strings, regex, data e hora |
+| ⬜ | Refatoração de código |
+| ⬜ | Docker — containers |
+| ⬜ | **Checkpoint Nível 1** |
+
+<sub>Nível 2 — APIs seguras, microsserviços e CI/CD · não iniciado</sub><br/>
+<sub>Nível 3 — Sistemas reativos, observabilidade e arquitetura avançada · não iniciado</sub>
 
 ---
 
