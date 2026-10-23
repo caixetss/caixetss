@@ -16,11 +16,11 @@
 
 ## Sobre mim
 
-Sou aluna do curso de Sistemas de Informação na Puc-Campinas e desenvolvedora de software com foco em **back-end Java**. Atuo profissionalmente
+Desenvolvedora de software com foco em **back-end Java**. Atuo profissionalmente
 com **Spring Boot**, construindo APIs REST, modelando regras de negócio e
 integrando com banco de dados relacional em ambiente corporativo.
 
-Cursando **Sistemas de Informação** e aprofundando arquitetura de software,
+Cursando **Sistemas de Informação** na **PUC-Campinas** e aprofundando arquitetura de software,
 persistência de dados e boas práticas de código.
 
 ```java
