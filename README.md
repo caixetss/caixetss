@@ -77,45 +77,6 @@ public class Gabrielle {
 
 ---
 
-## Trilha de estudos
-
-Carreira **[Desenvolvimento Back-End Java](https://cursos.alura.com.br)** — Alura · Nível 1 de 3
-
-**Concluído**
-
-| | Tema |
-|:---:|---|
-| ✅ | Sintaxe Java — variáveis, condicionais e laços |
-| ✅ | Orientação a objetos — classes, encapsulamento, herança, polimorfismo, interfaces |
-| ✅ | Consumo de APIs, manipulação de arquivos e tratamento de erros |
-| ✅ | Boas práticas de código em APIs Java |
-| ✅ | Testes automatizados com Java |
-
-**Em andamento**
-
-| | Tema | |
-|:---:|---|---|
-| 🔄 | Listas e coleções de dados | `84%` |
-| 🔄 | Lambdas, streams e Spring Framework | `8%` |
-| 🔄 | Versionamento e repositórios no GitHub | `6%` |
-
-**Próximos passos**
-
-| | Tema |
-|:---:|---|
-| ⬜ | Exceções — criar, lançar e controlar |
-| ⬜ | Persistência com Spring Data JPA |
-| ⬜ | Redes e protocolos — fundamentos da web |
-| ⬜ | Strings, regex, data e hora |
-| ⬜ | Refatoração de código |
-| ⬜ | Docker — containers |
-| ⬜ | **Checkpoint Nível 1** |
-
-<sub>Nível 2 — APIs seguras, microsserviços e CI/CD · não iniciado</sub><br/>
-<sub>Nível 3 — Sistemas reativos, observabilidade e arquitetura avançada · não iniciado</sub>
-
----
-
 ## Estatísticas
 
 <p align="center">
